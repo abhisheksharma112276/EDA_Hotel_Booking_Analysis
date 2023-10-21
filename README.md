@@ -15,5 +15,4 @@ Dataset Columns count: 33
 #Main Libraries to be used:
 
 Pandas for data manipulation, aggregation
-Matplotlib and Seaborn for visualisation and behaviour with respect to the target variable. Use at least 5 different visualisations.
-NumPy for computationally efficient operations
+Matplotlib and Seaborn for visualisation and behaviour with respect to the target variable.
